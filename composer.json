@@ -2,12 +2,11 @@
     "name": "jaybizzle/laravel-zencoder",
     "description": "A laravel wrapper around the zencoder API.",
     "keywords": ["a4m", "api", "zencoder", "laravel", "transcoding", "video", "audio", "thumbnails"],
-    "homepage": "https://gitlab.advantage4me.co/opensource/zencoder/",
+    "homepage": "https://github.com/JayBizzle/Laravel-Zencoder",
     "license": "MIT",
     "support": {
         "email": "mbeech@mark-beech.co.uk",
-        "issues": "https://gitlab.advantage4me.co/opensource/zencoder/issues",
-        "source": "https://gitlab.advantage4me.co/opensource/zencoder"
+        "source": "https://github.com/JayBizzle/Laravel-Zencoder"
     },
     "authors": [
         {
