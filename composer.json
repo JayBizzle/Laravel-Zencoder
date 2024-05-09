@@ -18,7 +18,7 @@
     "require": {
         "php": ">=5.4",
         "zencoder/zencoder-php": "2.2.*",
-        "illuminate/support": "^7.0|^8.0|^9.0|^10.0",
+        "illuminate/support": "^7.0|^8.0|^9.0|^10.0|^11.0",
         "rmccue/requests": ">=1.0",
         "nesbot/carbon": "2.*"
     },
